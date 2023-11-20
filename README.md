@@ -1,6 +1,6 @@
 # Jigglypuff
 
-![Jigglypuff]()
+![Jigglypuff](https://github.com/DiegoRomeo/jigglypuff/blob/main/images/jigglypuff.jpeg)
 > If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience. cit. Pokédex
 
 From the description this pokemon seems a bit like my extremely booring italian/latin teacher.
